@@ -1,0 +1,74 @@
+<html lang="en">
+
+  <head>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title> Bourbon Chicken </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+  <body>
+    <div class="container">
+      <h1> Chef Savvy </h1>
+      <h2> Bourbon Chicken </h2>
+
+      <div class="well">
+      <i>Super Easy One Pan Bourbon Chicken. Serve with rice and noodles to make it a meal!</i> <br/> </br/>PREP TIME: 5 MINS <br/> COOK TIME: 15 MINS <br/> TOTAL TIME: 20 MINS <br/> SERVES: 4 HUNGRY BELLIES :) </div>
+    </div>
+    <div class="panel panel-success">
+      <div class="panel-heading">
+        <h4 class="panel-title"> INGREDIENTS: </h4>
+      </div>
+      <div class="panel-body">
+        <ul>
+          <li>1/2 teaspoon sesame oil</li>
+          <li>1 tablespoon canola oil</li>
+          <li>2 pounds chicken breast, cut into 1 inch cubes</li>
+          <li>4 garlic cloves, minced</li>
+          <li>1 teaspoon ginger, minced</li>
+          <li>1/4 cup low sodium soy sauce</li>
+          <li>1/4cup light or dark brown sugar</li>
+          <li>2 tablespoons bourbon</li>
+          <li>1/4 cup rice wine vinegar</li>
+          <li>1 teaspoon cornstarch</li>
+          <li>1 tablespoon water</li>
+          <li>sesame seeds for garnish, if desired</li>
+          <li>green onions for garnish, if desired</li>
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-info">
+      <div class="panel-heading">
+        <h4 class="panel-title">INSTRUCTIONS:</h4>
+      </div>
+      <div class="panel-body">
+        <ol>
+          <li>Heat sesame oil and conal oil in alarge skillet.</li>
+          <li>Add in chicken and saute untilfully cooked and browned.</li>
+          <li>Add in garlic and giner and sautefor 1-2 minutes. (Add in more oil if needed)</li>
+          <li>In a medium bowl combine soy sauce, brown sugar, bourbon and rice wine vinegar.</li>
+          <li>Add dauce to the chicken and bring to asimmer. Cookfor 2-3 minutes.</li>
+          <li>Meanwhile in a small bowl whisk together cornstarch and water.</li>
+          <li>Slowlyadd the cornstarch mixture to the sauce and stir frequently until thickened, 2-3 minutes.</li>
+            <li>If the sauce needs to thicken more addmore cornstarch.</li>
+            <li>Serve immediately with sesame seeds and green onions for garnish, if desired.</li>
+        </ol>
+      </div>
+    </div>
+  </body>
+     </div>
+    <div class="panel panel-success">
+      <div class="panel-heading">
+        <h4 class="panel-title"> NOTES: </h4>
+      </div>
+      <div class="panel-body">
+<em>Original recipe from chefsavvy.com. Please do not publish my recipe or pictures without linking back to the original post. Thank you!</em>
+   </div>
+    </div>
+  </body>
